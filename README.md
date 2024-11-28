@@ -13,11 +13,18 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Meu interesse por tecnologia começou cedo, e ao longo dos anos, transformei essa paixão em uma carreira sólida no desenvolvimento de software. Com uma formação robusta em Ciências da Computação, MBA em Gestão de TI e um tecnólogo em Análise e Desenvolvimento de Sistemas, venho aplicando meu conhecimento para criar soluções inovadoras e eficazes.
-- 💚 &nbsp; Atualmente, atuo como desenvolvedor front-end, utilizando tecnologias como React, Next.js e TypeScript para desenvolver aplicações web modernas, otimizadas e responsivas.
-- 🚀 &nbsp; Minha experiência profissional inclui cargos de Analista de Sistemas, Coordenador de TI e Professor de Informática, o que me permitiu desenvolver habilidades em gestão, ensino e tecnologia, sempre focando em qualidade e resultados.
-- 🏎 &nbsp; Nos meus momentos livres, sou apaixonado por automobilismo e costumo andar de kart nos fins de semana. Também gosto de tocar violão, o que me ajuda a relaxar e estimular a criatividade, além de ler biografias e livros de autodesenvolvimento para continuar evoluindo como pessoa e profissional.
-- 💵 &nbsp; Tenho um grande interesse em desenvolvimento pessoal, espiritualidade e prosperidade financeira, sempre buscando formas de crescer e contribuir para um impacto positivo ao meu redor.
+<p align="justify">👨🏻‍💻 &nbsp; Meu interesse por tecnologia começou cedo, e ao longo dos anos, transformei essa paixão em uma carreira sólida no desenvolvimento de software.  
+  Com uma formação robusta em Ciências da Computação, MBA em Gestão de TI e um tecnólogo em Análise e Desenvolvimento de Sistemas, venho aplicando meu conhecimento para criar soluções inovadoras e eficazes.</p>
+
+<p align="justify">💚 &nbsp; Atualmente, atuo como desenvolvedor front-end, utilizando tecnologias como React, Next.js e TypeScript para desenvolver aplicações web modernas, otimizadas e responsivas.</p>
+
+<p align="justify">🚀 &nbsp; Minha experiência profissional inclui cargos de Analista de Sistemas, Coordenador de TI e Professor de Informática, o que me permitiu desenvolver habilidades em gestão, ensino e tecnologia, sempre focando em qualidade e resultados.</p>
+
+<p align="justify">🏎 &nbsp; Nos meus momentos livres, sou apaixonado por automobilismo e costumo andar de kart nos fins de semana.  
+  Também gosto de tocar violão, o que me ajuda a relaxar e estimular a criatividade, além de ler biografias e livros de autodesenvolvimento para continuar evoluindo como pessoa e profissional.</p>
+
+<p align="justify">💵 &nbsp; Tenho um grande interesse em desenvolvimento pessoal, espiritualidade e prosperidade financeira, sempre buscando formas de crescer e contribuir para um impacto positivo ao meu redor.</p>
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
