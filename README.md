@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-Abel%20Sena%20-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:abelsena1@hotmail.com">
-    <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-pgzvr&psig=AOvVaw1ouWr9RPNmmSy-5lnW6pqq&ust=1732891222215000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCI6IKh_4kDFQAAAAAdAAAAABAE" alt="Email">
   </a>
 </p>
 
