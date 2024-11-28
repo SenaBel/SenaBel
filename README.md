@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-Abel%20Sena%20-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:abelsena1@hotmail.com">
-    <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-D14836?style=flat-square&logo=Email&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white" alt="Hotmail">
   </a>
 </p>
 
