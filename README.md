@@ -5,8 +5,9 @@
     <img src="https://img.shields.io/badge/-Abel%20Sena%20-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:abelsena1@hotmail.com">
-    <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Hotmail">
-  </a>
+  <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Hotmail">
+</a>
+
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
