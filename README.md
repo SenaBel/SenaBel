@@ -44,4 +44,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Abel Sena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Abel Sena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SenaBel&show_icons=true&theme=dracula)
