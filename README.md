@@ -1,11 +1,12 @@
 <h1>👋 &nbsp;Opa, eu sou o Abel, um desenvolvedor front-end apaixonado pelo que faz!</h1>
 
-<p align="center">
-
-<a href="www.linkedin.com/in/abel-sena"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-
-<a href="mailto:abelsena1@hotmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<p align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/abel-sena">
+    <img src="https://img.shields.io/badge/-Abel%20Sena%20-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abelsena1@hotmail.com">
+    <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
