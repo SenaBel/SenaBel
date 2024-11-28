@@ -1,13 +1,14 @@
 <h1>👋 &nbsp;Opa, eu sou o Abel, um desenvolvedor front-end apaixonado pelo que faz!</h1>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+<p align="center" style="display: flex; justify-content: center; gap: 30px; align-items: center;">
   <a href="https://www.linkedin.com/in/abel-sena">
-    <img src="https://img.shields.io/badge/-Abel%20Sena%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Abel%20Sena%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077B5&label=LinkedIn" alt="LinkedIn" style="font-size: 1.2em;">
   </a>
   <a href="mailto:abelsena1@hotmail.com">
-    <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-34A853?style=flat-square&logo=microsoft&logoColor=white" alt="Hotmail">
+    <img src="https://img.shields.io/badge/-abelsena1@hotmail.com-34A853?style=flat-square&logo=microsoft&logoColor=white&labelColor=34A853&label=Email" alt="Hotmail" style="font-size: 1.2em;">
   </a>
 </p>
+
 
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
